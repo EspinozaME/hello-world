@@ -10,7 +10,7 @@ Este es mi primer repositorio creado para el módulo: Lenguaje de Marcas y Siste
       * documento2.xml
       * cumento3.html
       
-      En cada documento he copiado y guardado el código respectivo. Por ejemplo en el "documento1.rtf" he guardado el código rtf de los apuntes. En el "documento2.xml" he guardado un ejemplo de código xml desde (https://www.w3schools.com/xml/) y en el "documento3.html" he guardado un ejemplo de código html desde (https://www.w3schools.com/html/).
+      En cada documento he copiado y guardado el código respectivo. Por ejemplo en el "documento1.rtf" he guardado el código rtf de los apuntes. En el "documento2.xml" he guardado un ejemplo de código xml desde [Tutorial XML](https://www.w3schools.com/xml/) y en el "documento3.html" he guardado un ejemplo de código html desde [Tutorial HTML](https://www.w3schools.com/html/).
       
       Finalmente he comprobado que funciona correctamente al abrir los documentos con el programa correspondiente. Por ejemplo el "documento1.rtf" con _OpenOffice_, El "documento2.xml" con _Internet Explorer_ y el "documento3.html" con _Google Chrome_.
  
