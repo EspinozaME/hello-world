@@ -12,7 +12,7 @@ Este es mi primer repositorio creado para el módulo: Lenguaje de Marcas y Siste
       
       En cada documento he copiado y guardado el código respectivo. Por ejemplo en el "documento1.rtf" he guardado el código rtf de los apuntes. En el "documento2.xml" he guardado un ejemplo de código xml desde [Tutorial XML](https://www.w3schools.com/xml/) y en el "documento3.html" he guardado un ejemplo de código html desde [Tutorial HTML](https://www.w3schools.com/html/).
       
-      Finalmente he comprobado que funciona correctamente al abrir los documentos con el programa correspondiente. Por ejemplo el "documento1.rtf" con _OpenOffice_, El "documento2.xml" con _Internet Explorer_ y el "documento3.html" con _Google Chrome_.
+      Finalmente he comprobado que funciona correctamente al abrir los documentos con el programa correspondiente. Por ejemplo el "documento1.rtf" con _OpenOffice_, el "documento2.xml" con _Internet Explorer_ y el "documento3.html" con _Google Chrome_.
  
 2. Ejercicio B: **Rellena un repositorio GitHub**  
  Primeramente me registre [GitHub](https://github.com/) siguiendo las instrucciones de la propia pagina y después cree el nuevo repositorio "**_hello-world_**" junto con el "**_README_**" marcando la casilla _"Initialize this repository with a README"_  
