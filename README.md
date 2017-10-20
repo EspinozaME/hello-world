@@ -21,5 +21,14 @@ Este es mi primer repositorio creado para el módulo: Lenguaje de Marcas y Siste
 3. Ejercicio C: **Usa Rawgit para ver html de GitHub**  
   Primero copio la URL de mi archivo html, haciendo clic sobre el "docuemnto3.html" que esta en mi repositorio para obtener su direccion URL. Seguidamente me dirijo a la pagina [Rawgit](https://rawgit.com/) para pegar la URL que copie de mi github.
   Finalmente copio el enlace donde indica "**_Use this URL for development_**" y este es el resultado: [ver página](https://rawgit.com/EspinozaME/hello-world/master/documeto3.html)
+  
 4. Ejercicio D: **Editar README.md explicando lo que has hecho**  
- Para concluir edite este archivo "_README_" utilizando _Markdown_ para explicar lo que hice y poner en practica lo que he aprendido.
+ Para concluir edité este archivo "_README_" utilizando _Markdown_ para explicar lo que hice y poner en practica lo que he aprendido.
+
+## Autoevaluación:
+
+* Sabes crear repositorios de Gihub y subir archivos?
+* Has creado documentos de ejemplo con diferentes lenguajes de marcas?
+* Sabes editar README.md usando Markdown?
+
+El enlace a mi repositorio: [hola-mundo](https://github.com/EspinozaME/hello-world)
