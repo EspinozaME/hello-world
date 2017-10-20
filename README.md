@@ -4,7 +4,7 @@ Este es mi primer repositorio creado para el módulo: Lenguaje de Marcas y Siste
 # Introducción a los Lenguajes de Marcas LLSGI-01
 ## Primera actividad
 
-1. Ejercicio A: **Crear documentos**
+1. Ejercicio A: **Crear documentos**  
  Con el bloc de notas he creado los siguientes documentos indicando el tipo de extensión:
  * documento1.rtf
  * documento2.xml
