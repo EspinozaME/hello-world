@@ -27,13 +27,13 @@ Este es mi primer repositorio creado para el módulo: Lenguaje de Marcas y Siste
 
 ## Autoevaluación:
 
-* **Sabes crear repositorios de Gihub y subir archivos?**
+* **Sabes crear repositorios de Gihub y subir archivos?**  
    Sí
    
-* **Has creado documentos de ejemplo con diferentes lenguajes de marcas?**
+* **Has creado documentos de ejemplo con diferentes lenguajes de marcas?**  
    Sí
    
-* **Sabes editar README.md usando Markdown?**
+* **Sabes editar README.md usando Markdown?**  
    Sí
 
 El enlace a mi repositorio: [hola-mundo](https://github.com/EspinozaME/hello-world)
