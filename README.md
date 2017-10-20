@@ -5,8 +5,8 @@ Este es mi primer repositorio creado para el módulo: Lenguaje de Marcas y Siste
 ## Primera actividad
 
 1. Ejercicio A: **Crear documentos**  
-Con el bloc de notas he creado los siguientes documentos indicando el tipo de extensión:  
-* documento1.rtf  
+ Con el bloc de notas he creado los siguientes documentos indicando el tipo de extensión:  
+ * documento1.rtf  
 * documento2.xml  
 * cumento3.html  
  En cada documento he copiado y guardado el código respectivo. Por ejemplo en el "documento1.rtf" he guardado el código rtf de los apuntes. En el "documento2.xml" he guardado un ejemplo de código xml desde (https://www.w3schools.com/xml/) y en el "documento3.html" he guardado un ejemplo de código html desde (https://www.w3schools.com/html/).
