@@ -23,12 +23,15 @@ Este es mi primer repositorio creado para el módulo: Lenguaje de Marcas y Siste
   Finalmente copio el enlace donde indica "**_Use this URL for development_**" y este es el resultado: [ver página](https://rawgit.com/EspinozaME/hello-world/master/documeto3.html)
   
 4. Ejercicio D: **Editar README.md explicando lo que has hecho**  
- Para concluir edité este archivo "_README_" utilizando _Markdown_ para explicar lo que hice y poner en practica lo que he aprendido.
+ Para concluir edité este archivo "_README_" usando _Markdown_ para explicar lo que hice y poner en practica lo que he aprendido.
 
 ## Autoevaluación:
 
 * Sabes crear repositorios de Gihub y subir archivos?
+   Sí
 * Has creado documentos de ejemplo con diferentes lenguajes de marcas?
+   Sí
 * Sabes editar README.md usando Markdown?
+   Sí
 
 El enlace a mi repositorio: [hola-mundo](https://github.com/EspinozaME/hello-world)
